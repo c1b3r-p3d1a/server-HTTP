@@ -24,6 +24,39 @@ Luego que estés en la carpeta, simplemente ejecuta el siguiente comando:
 npm install
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Instalar-NodeJS
 
 En esta sección te guiaré paso a paso para que puedas instalar NodeJS en tu ordenador, ya sea Linux, Windows o Mac
