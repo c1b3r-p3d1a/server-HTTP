@@ -49,5 +49,9 @@ server.listen(port, host, () => {
     setTimeout(() => {
         console.log("[+] Servidor funcionando en", host, "por el puerto", port)
     }, 600);
-    
+    function HandleKeyDown(ev){
+    if(ev.keyCode == 99){
+        console.log("[-] Saliendo...")
+    }
+}
 })
