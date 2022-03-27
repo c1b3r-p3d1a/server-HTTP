@@ -8,3 +8,4 @@ Te dajo una tabla con las versiones del [server-HTTP](https://github.com/c1b3r-p
 | ------- | ------------------ |
 | 1.0.0   | :white_check_mark: |
 | 2.0.0   | :white_check_mark: |
+| 2.1.0   | :white_check_mark: |
