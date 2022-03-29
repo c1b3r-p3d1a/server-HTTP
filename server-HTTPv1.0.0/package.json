@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "web-server_nodejs",
+  "version": "2.0.0",
+  "description": "A HTTP server",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c1b3r-p3d1a/server-HTTP.git"
+  },
+  "keywords": [
+    "server",
+    "http",
+    "HTTP",
+    "server",
+    "HTTP-Server"
+  ],
+  "author": "c1b3r-p3d1a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c1b3r-p3d1a/server-HTTP/issues"
+  },
+  "homepage": "https://github.com/c1b3r-p3d1a/server-HTTP#readme"
+}
