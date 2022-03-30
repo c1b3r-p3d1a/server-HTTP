@@ -26,7 +26,7 @@ npm start
 
 Te saldrá algo como esto:
 
-<img src="https://github.com/c1b3r-p3d1a/server-HTTP/blob/main/server-HTTP%20v2.0.0/img/Npm%20start.png" />
+<img src="https://github.com/c1b3r-p3d1a/server-HTTP/blob/main/img/Npm%20Start.png" />
 
 # Instalar-NodeJS
 
