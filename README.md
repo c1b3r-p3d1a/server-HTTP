@@ -35,7 +35,7 @@ En esta sección te guiaré paso a paso para que puedas instalar NodeJS en tu or
 Tanto en Mac como en Windows NodeJS tiene su propio instalador que te lo hace él solo rápido.
 Lo puedes descargar desde [NodeJs](https://nodejs.org/es/download/).
 
-<img src="https://github.com/c1b3r-p3d1a/server-HTTP/blob/main/server-HTTP%20v2.0.0/img/Web%20NodeJS.png" />
+<img src="https://github.com/c1b3r-p3d1a/server-HTTP/blob/main/img/Web%20NodeJS.png" />
 
 Pero como te habrás dado cuenta, Linux no tiene instalador. Necesitas desde la terminal poner unos comandos para poder descargarte NodeJS.
 
