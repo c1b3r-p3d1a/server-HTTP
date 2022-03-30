@@ -1,0 +1,27 @@
+{
+  "name": "server-http",
+  "version": "2.0.0",
+  "description": "A web local HTTP server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "readline": "^1.3.0",
+    "socket.io": "^4.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c1b3r-p3d1a/server-HTTP.git"
+  },
+  "author": "c1b3r-p3d1a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c1b3r-p3d1a/server-HTTP/issues"
+  },
+  "homepage": "https://github.com/c1b3r-p3d1a/server-HTTP#readme"
+}
