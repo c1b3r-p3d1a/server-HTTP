@@ -18,7 +18,13 @@ Luego que ya estés en el **directorio**, te metes en la carpeta
 cd ./server-HTTP
 ```
 
-Luego que estés en la carpeta, simplemente ejecuta el siguiente comando:
+Cuando estés en la carpeta, tendrás que instalar las librerías con el comando:
+
+```
+npm install
+```
+
+Luego simplemente ejecuta el siguiente comando:
 
 ```
 npm start
