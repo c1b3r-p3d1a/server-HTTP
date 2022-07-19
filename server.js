@@ -42,7 +42,7 @@ const rl = readline.createInterface({
         console.log("   cc      i   b   b   eeeeee   rr   rrr      ")
     }, 100);
     setTimeout(() => {
-        console.log("   cc      i   b b     eee      rrrrrrr     ------   P3d1A")
+        console.log("   cc      i   b b     eee      rrrrrr      ------   P3d1A")
     }, 200);
     setTimeout(() => {
         console.log("   cc      i   b   b   eeeeee   rr rrrr ")
